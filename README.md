@@ -23,10 +23,10 @@ I removed the left-aligned text in this version, you can, however, add this deta
 #### modes
 
 dark mode (Cocoa): 
-![](images/desserts-screenshot-dark-cocoa)
+![](images/desserts-screenshot-dark-cocoa.jpg)
 
 
 light mode (Parfait):
-![](images/desserts-screenshot-light-parfait)
+![](images/desserts-screenshot-light-parfait.jpg)
 
 
