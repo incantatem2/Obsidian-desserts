@@ -1,3 +1,9 @@
+
+### Important:
+My themes will now get published on [carrd](https://obsidian-theme-cafe.carrd.co)
+ and can be downloaded directly as zip files.
+
+
 # Desserts
 
 My old themes Parfait and Cocoa merged into one light/dark theme. They also have some small style edits.
